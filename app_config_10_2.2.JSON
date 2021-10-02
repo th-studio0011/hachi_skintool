@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "ads_config": {
+    "enable": true,
+    "interval": 20
+  },
+  "ad_units": {
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": "567221927733768_567223054400322"
+        },
+
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_apply_skin": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": "567221927733768_567224397733521"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_main_item": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": "567221927733768_567225027733458"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_skin_list": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": "567221927733768_567225437733417"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_main": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": "567221927733768_567225961066698"
+        },
+        {
+          "ad_network": "max",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "native_unzip": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": "567221927733768_567226311066663"
+        },
+        {
+          "ad_network": "max",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "native_home": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": "567221927733768_567225961066698"
+        },
+        {
+          "ad_network": "max",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "native_detail": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": "567221927733768_567226311066663"
+        },
+        {
+          "ad_network": "max",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "native_reset": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": "567221927733768_576885250100769"
+        },
+        {
+          "ad_network": "max",
+          "ad_unit": ""
+        }
+      ]
+    }
+  },
+  "app_version_config": {
+    "last_version": "2.2",
+    "force_update": false
+  },
+  "recommendation_apps": [
+    {
+      "app_name": "New Skin Tools",
+      "package_name": "com.bigbro.free.skin.tools",
+      "short_des": "We have just added a new pack:Skin VIP V35-V36 \nProvides many Elite Pass Bundles: Red Criminal, Blue Criminal.... \nTry it free now !.",
+      "icon": "https://play-lh.googleusercontent.com/maR6J2-xSFeuEm5tpP4wKHWb9Yn2DsZVUT2CrUVJJHqDPnWQACEwLS_nCsPvQt90YveL=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/2Ys0iQqRgAwXmDssK7secpg9RyTBjWMSszvCVjLeHV5kF9uegh8R-LWcdrFJckVUYII"
+    }
+  ]
+}

@@ -8,10 +8,9 @@
     "full_splash": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "567221927733768_567223054400322"
+          "ad_network": "max",
+          "ad_unit": "2029c88f201f27b3"
         },
-
         {
           "ad_network": "startio"
         }
@@ -20,8 +19,8 @@
     "full_apply_skin": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "567221927733768_567224397733521"
+          "ad_network": "max",
+          "ad_unit": "2b85bea3f367f8d8"
         },
         {
           "ad_network": "startio"
@@ -31,8 +30,8 @@
     "full_main_item": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "567221927733768_567225027733458"
+          "ad_network": "max",
+          "ad_unit": "f63ec93e2dcaaa7c"
         },
         {
           "ad_network": "startio"
@@ -42,8 +41,8 @@
     "banner_skin_list": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "567221927733768_567225437733417"
+          "ad_network": "max",
+          "ad_unit": "0943b648888d0633"
         },
         {
           "ad_network": "startio"

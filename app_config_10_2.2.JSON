@@ -120,11 +120,11 @@
   },
   "recommendation_apps": [
     {
-      "app_name": "New Skin Tools",
-      "package_name": "com.bigbro.free.skin.tools",
-      "short_des": "Get elite pass bundles, emotes, gun skins from Skin Tools to entertain yourself. \nTry it free now !.",
-      "icon": "https://play-lh.googleusercontent.com/maR6J2-xSFeuEm5tpP4wKHWb9Yn2DsZVUT2CrUVJJHqDPnWQACEwLS_nCsPvQt90YveL=s180-rw",
-      "cover": "https://play-lh.googleusercontent.com/2Ys0iQqRgAwXmDssK7secpg9RyTBjWMSszvCVjLeHV5kF9uegh8R-LWcdrFJckVUYII"
+      "app_name": "Skin Tools for FF & FF MAX",
+      "package_name": "com.gmt.ff.tool.free",
+      "short_des": "Many elite pass bundles, skin for both FF MAX and FF is waiting for you. \nTry it free now !.",
+      "icon": "https://play-lh.googleusercontent.com/fVronV46I-lIxADIbcG7IzTzwOoj_y9p0J-LU6J-YATnr_GJKmsCR3SNXW88P6sIcQ=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/OfE3P-gxH2GB4REXO-2yTMaxkQszqc4lgGB9kebKlSc0TP6PZxbDfeNb0hwUjKv8p_Et"
     }
   ]
 }

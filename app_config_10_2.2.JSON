@@ -19,10 +19,6 @@
     "full_apply_skin": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/6699035138"
-        },
-        {
           "ad_network": "max",
           "ad_unit": "2b85bea3f367f8d8"
         },

@@ -80,6 +80,10 @@
     "native_home": {
       "units": [
         {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-6223305386183432/1475675762"
+        },
+        {
           "ad_network": "fan",
           "ad_unit": "567221927733768_567225961066698"
         },

@@ -114,7 +114,7 @@
       ]
     }
   },
-  "force_download_app": {
+  "force_update": {
     "app_name": "FF Tools - Skin Tools & Enemy position",
     "package_name": "com.gmt.ff.tool.free",
     "short_des": "This application is no longer supported, Please install new your application for continuous using skin tools",

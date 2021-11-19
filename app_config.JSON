@@ -5,6 +5,23 @@
     "interval": 20
   },
   "ad_units": {
+    "open_app": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "",
+          "enable": false
+        }
+      ]
+    },
+    "reward_item": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "c29268a6065f0695"
+        }
+      ]
+    },
     "full_splash": {
       "units": [
         {
@@ -116,6 +133,7 @@
   },
   "app_version_config": {
     "last_version": "2.4",
+    "last_version_code": 15,
     "force_update": false
   },
   "recommendation_apps": [

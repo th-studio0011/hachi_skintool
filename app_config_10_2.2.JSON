@@ -19,10 +19,6 @@
     "full_apply_skin": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/6699035138"
-        },
-        {
           "ad_network": "max",
           "ad_unit": "2b85bea3f367f8d8"
         },
@@ -56,10 +52,6 @@
     "native_main": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "567221927733768_567225961066698"
-        },
-        {
           "ad_network": "max",
           "ad_unit": "3b679d7c05fae74e"
         }
@@ -67,10 +59,6 @@
     },
     "native_unzip": {
       "units": [
-        {
-          "ad_network": "fan",
-          "ad_unit": "567221927733768_567226311066663"
-        },
         {
           "ad_network": "max",
           "ad_unit": "6ef775182b6e126d"
@@ -80,10 +68,6 @@
     "native_home": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "567221927733768_567225961066698"
-        },
-        {
           "ad_network": "max",
           "ad_unit": "6ef775182b6e126d"
         }
@@ -92,10 +76,6 @@
     "native_detail": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "567221927733768_592401608549133"
-        },
-        {
           "ad_network": "max",
           "ad_unit": "3b679d7c05fae74e"
         }
@@ -103,10 +83,6 @@
     },
     "native_reset": {
       "units": [
-        {
-          "ad_network": "fan",
-          "ad_unit": "567221927733768_576885250100769"
-        },
         {
           "ad_network": "max",
           "ad_unit": "6ef775182b6e126d"

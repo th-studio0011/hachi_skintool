@@ -91,11 +91,11 @@
     }
   },
   "force_update": {
-    "app_name": "Skin Tools By Your Self",
-    "package_name": "com.hadu.ff.skin.tools.pro.free",
-    "short_des": "This application is no longer supported, Please install new your application for continuous using skin tools",
-    "icon": "https://play-lh.googleusercontent.com/2XVFVwTuCRTlPu1q1eOkUk6NoGuoW9sJCTK0lqD13FvAljvKhTW6HFX_alFNuCeOnFg=s360-rw",
-    "cover": "https://play-lh.googleusercontent.com/_zEDVsb6ynJRRE9WBSrMitVQUlishuYABva0380zlBdXU_Lc_jdelT-kEORKz0CTKs4"
+    "app_name": "New FF Tools",
+    "package_name": "com.gmt.ff.tools.mod.free",
+    "short_des": "New version FF Tools: Fix Lag, Antenna & Skin Tools",
+    "icon": "https://play-lh.googleusercontent.com/TRhiNGd-ZPsGq_NsyBtrcUx6ASThR94-G6_q7C-P-kej-IONeh8lT66jmYunNqs_U1Sl=s180-rw",
+    "cover": "https://play-lh.googleusercontent.com/ptfYoxJ_2JUq8rF_JhD72F68gxYUBSWGjna_uto6UwnyTp7V7fWguzKaKCjqbLiy1FUz"
   },
   "recommendation_apps": [
     {
